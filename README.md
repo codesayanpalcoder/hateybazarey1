@@ -38,7 +38,7 @@ Use Axios to make API requests to your backend server.
 
 Implement payment processing:
 
-Choose a payment processing platform (e.g. PayPal).
+Choose a payment processing platform (e.g. stripe).
 
 Use the platform's API to handle payments and transactions.
 
