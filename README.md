@@ -62,7 +62,7 @@ Website load may take some time, so please wait.
   </tr>
   <tr>
     <td><img src="https://github.com/codesayanpalcoder/hateybazarey1/blob/main/frontend/public/website%20images/Screenshot%20(1).png" /></td>
-    <td><img src="https://github.com/codesayanpalcoder/hateybazarey1/blob/main/frontend/public/website%20images/Screenshot%20(2).png" alt="mockups" /></td>
+    <td><img src="https://github.com/codesayanpalcoder/hateybazarey1/blob/main/frontend/public/website%20images/Screenshot%20(2).jpg" alt="mockups" /></td>
   </tr>
    <tr>
     <td><img src="https://github.com/codesayanpalcoder/hateybazarey1/blob/main/frontend/public/website%20images/Screenshot%20(4).png" /></td>
