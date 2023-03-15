@@ -7,13 +7,13 @@ E: Express (a backend framework for Node.js)
 R: React (a frontend library for building user interfaces)
 N: Node.js (a JavaScript runtime environment)
 ## Backend
-Set up the backend using Node.js and Express:;
+Set up the backend using Node.js and Express:
 
--Install Node.js and Express;
--Create a server.js file and set up your server;
--Create routes for your API endpoints (e.g. GET, POST, PUT, DELETE);
--Use a middleware like body-parser to parse incoming requests;
--Connect to your MongoDB database using a library like Mongoose;
+-Install Node.js and Express
+-Create a server.js file and set up your server
+-Create routes for your API endpoints (e.g. GET, POST, PUT, DELETE)
+-Use a middleware like body-parser to parse incoming requests
+-Connect to your MongoDB database using a library like Mongoose
 
 
 ## Demo
