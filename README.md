@@ -49,7 +49,7 @@ Website load may take some time, so please wait.
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/65649115/218567761-fbeda72a-754e-4d28-ae08-c83f9360485e.png" /></td>
+    <td><img src="https://github.com/codesayanpalcoder/hateybazarey1/blob/main/frontend/public/website%20images/Screenshot%20(11).png" /></td>
     <td><img src="https://user-images.githubusercontent.com/65649115/218567770-f7e98ad8-bdfa-4552-ab08-effcf3c95643.png" alt="mockups" /></td>
   </tr>
   <tr>
