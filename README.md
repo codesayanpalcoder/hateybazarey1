@@ -50,11 +50,11 @@ Website load may take some time, so please wait.
 <table>
   <tr>
     <td><img src="https://github.com/codesayanpalcoder/hateybazarey1/blob/main/frontend/public/website%20images/Screenshot%20(11).png" /></td>
-    <td><img src="https://user-images.githubusercontent.com/65649115/218567770-f7e98ad8-bdfa-4552-ab08-effcf3c95643.png" alt="mockups" /></td>
+    <td><img src="https://github.com/codesayanpalcoder/hateybazarey1/blob/main/frontend/public/website%20images/Screenshot%20(12).png" alt="mockups" /></td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/65649115/218567774-c4036d4c-12c6-400d-b278-c243b600c700.png" /></td>
-    <td><img src="https://user-images.githubusercontent.com/65649115/221517641-e93cf24f-9dda-4fe7-87fc-53054aeb17d2.png" /></td>
+    <td><img src="https://github.com/codesayanpalcoder/hateybazarey1/blob/main/frontend/public/website%20images/Screenshot%20(17).png" /></td>
+    <td><img src="https://github.com/codesayanpalcoder/hateybazarey1/blob/main/frontend/public/website%20images/Screenshot%20(19).png" /></td>
   </tr>
 </table>
 
