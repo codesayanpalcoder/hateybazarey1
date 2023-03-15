@@ -1,5 +1,11 @@
 # Hatey-Bazarey-MERN
 Full-Stack Ecommerce with Admin Dashboard & stripe Payment Gateway.
+First, let's define what the MERN stack is:
+
+M: MongoDB (a NoSQL database)
+E: Express (a backend framework for Node.js)
+R: React (a frontend library for building user interfaces)
+N: Node.js (a JavaScript runtime environment)
 
 ## Demo
 [This application is deployed on Render Please check it out : 😀 smile](https://hateybazarey.onrender.com) 
